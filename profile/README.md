@@ -1,4 +1,6 @@
-# Neotrinost
+# Neotrinost LLC
+
+[![Cover](neotrinost-cover.png)](#)
 
 Well, we are Neotrinost LLC. Founded in November 2020 by Amirhossein Mohammadi And Annahita Mirhosseini.
 
